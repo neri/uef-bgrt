@@ -35,4 +35,4 @@ $ rake run ARCH=aa64
 
 ## License
 
-* PUBLIC DOMAIN/WTFL
+* PUBLIC DOMAIN
